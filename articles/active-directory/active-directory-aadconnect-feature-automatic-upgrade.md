@@ -79,6 +79,7 @@ Here is a list of the most common messages you will find. It does not list all, 
 | UpgradeNotSupportedGroupWritebackEnabled | You have enabled the [group writeback](active-directory-aadconnect-feature-preview.md#group-writeback) feature. |
 | UpgradeNotSupportedMetaverseSizeExceeeded | You have more than 100,000 objects in the metaverse. |
 | UpgradeNotSupportedMultiForestSetup | You are connecting to more than one forest. Express setup will only connect to one forest. |
+| UpgradeNotSupportedNonLocalDBInstall | ?????
 | UpgradeNotSupportedNonMsolAccount | The [AD Connector account](active-directory-aadconnect-accounts-permissions.md#active-directory-account) is not the default MSOL_ account anymore.
 | UpgradeNotSupportedStagingModeEnabled | The server is set to be in [staging mode](active-directory-aadconnectsync-operations.md#staging-mode). |
 
